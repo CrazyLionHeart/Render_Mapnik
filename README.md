@@ -1,4 +1,4 @@
-Render_Mapnk
+Render_Mapnik
 ============
 
 Tools for prerender mapnik cache
